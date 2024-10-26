@@ -1,4 +1,4 @@
-#Saved 10/15/2024
+#Saved 10/26/2024
 from ina219 import INA219, DeviceRangeError
 from time import sleep
 import tkinter
